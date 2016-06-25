@@ -1,2 +1,2 @@
 # Coin-Game
-ghj
+This is the Coin Game!
